@@ -1,0 +1,26 @@
+.carousel-item img{
+height: 400px;
+margin-bottom: 30px;
+}
+
+.card-box{
+    height: 600px;
+}
+.card-search{
+    height: 600px;
+}
+
+.card-img-top{
+height:50%;
+}
+#search-message{
+    margin: 30px;
+}
+#search-display-container{
+    margin: 20px;
+}
+footer p{
+height: 50px;
+margin-top: 20px;
+padding-top:10px;
+}
